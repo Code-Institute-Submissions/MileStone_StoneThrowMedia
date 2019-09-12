@@ -291,3 +291,22 @@ margin-bottom: 25px;
   padding-bottom: 30px;
 }
 
+
+/*---Form Button-----*/
+.btn {
+  color: #fff;
+  background-color: #c5d5cb;
+
+}
+
+
+#contact{
+  color: #9fa8a3;
+}
+
+
+.btn:hover {
+  color: #9fa8a3;
+  transition: 0.4s;
+  opacity: 1;
+}
