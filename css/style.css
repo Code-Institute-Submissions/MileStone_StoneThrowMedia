@@ -227,3 +227,22 @@ body {
   transition: 0.4s;
   opacity: 1;
 }
+
+
+/*---Jumbotron-----*/
+.jumbotron {
+  background: transparent;
+  text-align: center;
+}
+
+
+h1 {
+  padding-top: 3%;
+  font-size: 6.3em;
+  color: #9fa8a3;
+}
+
+.jumbotron p {
+  font-size: 2.5em;
+  color: #9fa8a3;
+}
