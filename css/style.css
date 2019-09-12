@@ -310,3 +310,15 @@ margin-bottom: 25px;
   transition: 0.4s;
   opacity: 1;
 }
+
+
+/*---Footer-----*/
+.footer {
+  background: #c5d5cb;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  padding-bottom:10px;
+  color: #fff;
+}
