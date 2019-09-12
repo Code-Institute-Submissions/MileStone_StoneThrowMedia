@@ -246,3 +246,48 @@ h1 {
   font-size: 2.5em;
   color: #9fa8a3;
 }
+
+/*---JavaScript Gallery-----*/
+.photo-gallery {
+  color: #9fa8a3;
+  background-color: #e3e0cf;
+}
+
+.photo-gallery p {
+  color: #9fa8a3;
+}
+
+.photo-gallery h2 {
+margin-bottom: 25px;
+    padding-top: 25px;
+    font-size: 24px;
+  
+}
+
+@media (min-width:767px) {
+  .photo-gallery h2 {
+  font-weight: bold;
+  margin-bottom: 40px;
+  padding-top: 40px;
+  color: inherit;
+  }
+}
+
+.photo-gallery .intro {
+  font-size: 16px;
+  max-width: 500px;
+  margin: 0 auto 40px;
+}
+
+.photo-gallery .intro p {
+  margin-bottom: 0;
+}
+
+.photo-gallery .photos {
+  padding-bottom: 20px;
+}
+
+.photo-gallery .item {
+  padding-bottom: 30px;
+}
+
