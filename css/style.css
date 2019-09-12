@@ -205,6 +205,7 @@ body {
 .navbar-dark {
   background: #c5d5cb;
   color:#fff;
+  
 }
 
 .navbar-dark .navbar-brand {
@@ -233,6 +234,7 @@ body {
 .jumbotron {
   background: transparent;
   text-align: center;
+  margin-top: 20px;
 }
 
 
