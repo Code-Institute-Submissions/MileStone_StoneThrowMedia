@@ -2,14 +2,14 @@
 Stream One Project: User-Centric Frontend Development - Code Institute
 
 This is my gallery site for my photography work to be a subsection onto a greater site to be build down the line.
-This site highlights at a quick glace of the style of photograpgy I am cableable as well as showing off my coding skills, 
+This site highlights at a quick glace of the style of photograpgy I am cableable off as well as showing off my coding skills, 
 and making the overall experinces interative with the images. Also has a way for direct contact with me for any questions someone may have.
 
 ## Demo 
 
 A live demo can be found [here](https://synnott3.github.io/MileStone_StoneThrowMedia/#home)
 
-As well as a quck video of the site in action [here](../demo/testdemo.mp4)
+As well as a quck video of the site in action [here](https://drive.google.com/drive/folders/1VCMQki7iqdOvyh65STf--BwJdrrFUrHy?usp=sharing)
 
 ## UX
 
