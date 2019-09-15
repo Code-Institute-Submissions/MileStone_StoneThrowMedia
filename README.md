@@ -27,6 +27,7 @@ I achieved that by keeping to a very minimal design from a framework point of vi
 3. Bootstrap (4.3.x)
 4. Javascript
 5. jquery
+6. Google Chrome developer tools
 
 ## Features
 
