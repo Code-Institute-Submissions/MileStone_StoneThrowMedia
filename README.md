@@ -18,6 +18,8 @@ I achieved that by keeping to a very minimal design from a framework point of vi
 
 ![alt text](https://raw.githubusercontent.com/Synnott3/MileStone_StoneThrowMedia/master/demo/colourscheme.PNG)
 
+### Note to marker all my user design experinces can be found in the user design experinces folder
+
 
 
 ## Technologies
