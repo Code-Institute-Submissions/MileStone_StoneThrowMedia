@@ -19,7 +19,6 @@ I achieved that by keeping to a very minimal design from a framework point of vi
 ![alt text](https://raw.githubusercontent.com/Synnott3/MileStone_StoneThrowMedia/master/demo/colourscheme.PNG)
 
 
-(also find a video file of the site working on a iphone6 on github)
 
 ## Technologies
 
@@ -38,7 +37,17 @@ This site uses a lightbox jquery library so the photos can enlarge when pressed,
 This site was tested across multiple browsers as well multiple screens sizes, and across multiple mobile devices to ensure responsiveness as well as functionality.
 These ranging from Chrome on desktop to Safari on iPhone to many android devices.
 
+1. Test navbar using the developer mode  on chrome to make sure it went to the correct sections
+2. Test responsiveness of site using developer mode on chrome
+3. Once the site was hosted on github test site by sending link to friends to test on their phones in both landscape and portrait mode
+4. Test site funtion by screen recording a user on the site which can be found in the demo section.
+
+
 ## Deployment 
+
+I started first by creating a local repository using git init.
+
+over time while working on the project I would commit to Github using Git add for the files I worked on, then using git commit -m to add comments about changes with the site
 
 This site is hosted using GitHub pages, deployed directly from the master branch. The live site updates automatically each time there is a new push to the repository. You can git clone the code to run it locally on your machine.
 StoneThrowMedia.com is also owned by me, and soon the site will be going live there using cloudflare.
